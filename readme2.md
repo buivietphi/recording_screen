@@ -1,0 +1,1 @@
+có 2 thư mục, chọn 1 trong 2, xóa cái còn lại và đổi tên cái đã chọn thành app
